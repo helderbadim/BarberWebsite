@@ -21,15 +21,16 @@ https://helderbadim.github.io/BarberWebsite/
 
 ## 📂 Project Structure
 
+```plaintext
 BarberWebsite/
 ├── index.html         # Main HTML file
 ├── styles/            # Folder containing CSS styles
 │   ├── style.css      # Main stylesheet
 ├── assets/            # Folder for images, icons, and other assets
 │   ├── images/        # All images used in the project
-│   ├── favicon.ico    # Favicon for the website (if included)
 ├── README.md          # Project documentation (this file)
-└── LICENSE            # License for the project (if included)
+```
+
 
 ## 🎯 Purpose
 
