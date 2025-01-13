@@ -15,8 +15,6 @@ CSS3
 GitHub Pages: For hosting the live demo.
 
 📂 Project Structure
-graphql
-Copiar código
 BarberWebsite/
 ├── index.html         # Main HTML file
 ├── styles/            # Folder containing CSS styles
@@ -24,6 +22,7 @@ BarberWebsite/
 ├── assets/            # Folder for images, icons, and other assets
 │   ├── images/        # All images used in the project
 └── README.md          # Project documentation (this file)
+
 
 🎯 Purpose
 This project was created as part of my front-end development learning journey and is my first attempt at building a complete, responsive website using only HTML and CSS. It demonstrates my ability to structure code, create clean designs, and ensure compatibility across devices.
